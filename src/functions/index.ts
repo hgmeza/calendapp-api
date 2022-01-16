@@ -1,1 +1,5 @@
-export { default as hello } from './hello';
+export {
+  getBySpecialtyHandler,
+  getSpecialtiesHandler,
+  getAvailabilityHandler,
+} from "./specialty";
